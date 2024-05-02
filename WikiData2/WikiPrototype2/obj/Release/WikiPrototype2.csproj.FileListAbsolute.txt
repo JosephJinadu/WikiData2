@@ -1,0 +1,10 @@
+C:\Users\hofma\source\repos\WikiData2\WikiPrototype2\bin\Release\WikiPrototype2.exe.config
+C:\Users\hofma\source\repos\WikiData2\WikiPrototype2\bin\Release\WikiPrototype2.exe
+C:\Users\hofma\source\repos\WikiData2\WikiPrototype2\bin\Release\WikiPrototype2.pdb
+C:\Users\hofma\source\repos\WikiData2\WikiPrototype2\obj\Release\WikiPrototype2.csproj.AssemblyReference.cache
+C:\Users\hofma\source\repos\WikiData2\WikiPrototype2\obj\Release\WikiPrototype2.WikiData2.resources
+C:\Users\hofma\source\repos\WikiData2\WikiPrototype2\obj\Release\WikiPrototype2.Properties.Resources.resources
+C:\Users\hofma\source\repos\WikiData2\WikiPrototype2\obj\Release\WikiPrototype2.csproj.GenerateResource.cache
+C:\Users\hofma\source\repos\WikiData2\WikiPrototype2\obj\Release\WikiPrototype2.csproj.CoreCompileInputs.cache
+C:\Users\hofma\source\repos\WikiData2\WikiPrototype2\obj\Release\WikiPrototype2.exe
+C:\Users\hofma\source\repos\WikiData2\WikiPrototype2\obj\Release\WikiPrototype2.pdb
